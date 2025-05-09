@@ -11,6 +11,8 @@ From the terminal (to get dependencies and playwrigh)
 To run tests:
 npx playwright test
 
+Tests are located under the tests folder.
+
 To run individual tests:
 npx playwright test -g "test title here"
 for example: npx playwright test -g "GET all clients"
